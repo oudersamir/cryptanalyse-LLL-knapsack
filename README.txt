@@ -12,7 +12,7 @@ PRESENTATION DES FICHIERS
 
 crypt.py      :  fichier responsable de crypter  le message claire avec cryptosyteme KNAPSACK.
 
-decrypt.py    :  fichier reseponsable de crypter le message crypter.
+decrypt.py    :  fichier responsable de decrypter le message crypter.
 
 attack_LLL.py : fichier qui fait l'attaque avec l'algorithme LLL.
 
